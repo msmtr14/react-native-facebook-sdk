@@ -22,6 +22,7 @@ export default class Login extends Component {
   state = {
     token: '',
   };
+
   render() {
     return (
       <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
